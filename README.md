@@ -9,6 +9,7 @@ Uygulama açıldığında verileri hafızaya yükler ve aşağıdaki işlemleri 
 2- Tarihe Göre Arama: Kullanıcı 'gg-aa' (Örn: 29-10) formatında giriş yaparak o günün tatil olup olmadığını sorgulayabilir.
 
 3- İsme Göre Arama: 3 yıllık (2023-2025) tüm tatil verileri tek liste halinde görüntüleyebilir.
+
 4-JSON Veri İşleme: API'den gelen veriler 'Newtonsoft.Json' kütüphanesi ile 'Holiday' sınıfına dönüştürülür.
 
 Veriler Nager.Date API servisinden çekilmektedir.
